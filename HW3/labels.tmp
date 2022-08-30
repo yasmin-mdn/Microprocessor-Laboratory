@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>E:\uni\term8\AZ-Microp\HWs\HW3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Here><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>11</LINE></Here>
+  <OC1_Routine><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>125</LINE></OC1_Routine>
+  <Start><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>29</LINE></Start>
+  <CountDecreasing><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>47</LINE></CountDecreasing>
+  <TIMER><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>59</LINE></TIMER>
+  <DISPLAY1><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>77</LINE></DISPLAY1>
+  <CONVERT><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>153</LINE></CONVERT>
+  <DELAY><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>197</LINE></DELAY>
+  <SETVAL><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>118</LINE></SETVAL>
+  <DISPLAY2><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>149</LINE></DISPLAY2>
+  <C1><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>158</LINE></C1>
+  <C2><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>162</LINE></C2>
+  <C3><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>166</LINE></C3>
+  <C4><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>170</LINE></C4>
+  <C5><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>174</LINE></C5>
+  <C6><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>178</LINE></C6>
+  <C7><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>182</LINE></C7>
+  <C8><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>186</LINE></C8>
+  <C9><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>190</LINE></C9>
+  <C10><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>193</LINE></C10>
+  <Loop1><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>198</LINE></Loop1>
+  <Loop2><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>199</LINE></Loop2>
+  <Loop3><FILE>E:\uni\term8\AZ-Microp\HWs\HW3\program.asm</FILE><LINE>200</LINE></Loop3>
+ </LABELS>
+</ASSEMBLER_INFO>

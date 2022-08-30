@@ -1,0 +1,30 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+prevLet                                                                           0x0260       2
+stat                                                                              0x0262       1
+prevX                                                                             0x0263       1
+prevY                                                                             0x0264       1
+_seed                                                                             0x0265       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+trigger                                                                           0x00728      9
+glcd_on                                                                           0x00731      8
+goto_col                                                                          0x00739     28
+goto_row                                                                          0x00755     13
+goto_xy                                                                           0x00762     10
+glcd_write                                                                        0x0076C     11
+glcd_clrln                                                                        0x00777     31
+glcd_clear                                                                        0x00796     16
+bmp_disp                                                                          0x007A6     45
+main                                                                              0x007D3     26

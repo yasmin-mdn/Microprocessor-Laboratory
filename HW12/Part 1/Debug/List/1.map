@@ -1,0 +1,35 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+prevLet                                                                           0x0260       2
+stat                                                                              0x0262       1
+prevX                                                                             0x0263       1
+prevY                                                                             0x0264       1
+_seed                                                                             0x0265       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+trigger                                                                           0x00534      9
+glcd_on                                                                           0x0053D      8
+goto_col                                                                          0x00545     28
+goto_row                                                                          0x00561     13
+goto_xy                                                                           0x0056E     10
+glcd_write                                                                        0x00578     11
+glcd_clrln                                                                        0x00583     31
+glcd_clear                                                                        0x005A2     16
+putIt                                                                             0x005B2     22
+enlarge                                                                           0x005C8     40
+putItSz                                                                           0x005F0    127
+glcd_putchar                                                                      0x0066F    136
+glcd_puts                                                                         0x006F7    173
+main                                                                              0x007A4     41
+strlen                                                                            0x007CD     12

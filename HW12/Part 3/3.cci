@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:5221AB0F
+NODE:I LEVEL:0 LINE:6 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:7 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:9 "D:\CodeVisionAVR Projects\Az-12\Part 3\Includes\GLCD.h"
+NODE:F LEVEL:0 LINE:11 "main(void)"

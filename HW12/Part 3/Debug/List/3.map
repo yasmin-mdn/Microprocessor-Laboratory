@@ -1,0 +1,37 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+prevLet                                                                           0x0260       2
+stat                                                                              0x0262       1
+prevX                                                                             0x0263       1
+prevY                                                                             0x0264       1
+_seed                                                                             0x0265       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+trigger                                                                           0x00528      9
+glcd_on                                                                           0x00531      8
+goto_col                                                                          0x00539     28
+goto_row                                                                          0x00555     13
+goto_xy                                                                           0x00562     10
+glcd_write                                                                        0x0056C     11
+glcd_clrln                                                                        0x00577     27
+glcd_clear                                                                        0x00592     16
+glcd_read                                                                         0x005A2     47
+point_at                                                                          0x005D1     42
+v_line                                                                            0x005FB     34
+circle                                                                            0x0061D    125
+main                                                                              0x0069A     51
+abs                                                                               0x006CD     10
+max                                                                               0x006D7     11
+min                                                                               0x006E2     11
+isqrt                                                                             0x006ED     25
